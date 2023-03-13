@@ -1,0 +1,8 @@
+Tugas :
+1. Jelaskan konsep dari HyperVisor!
+2. Apa itu operating system?
+
+Jawab:
+
+1. Konsep dari Hypervisor program  yang membantu virtual machine untuk membagi beberapa komponen partisi seperti: cpu, ram, dll untuk sumber daya sebuah server.
+2. Operating system adalah sebagai penghubung atau pengelolah antar software dan hardware dalam sebuah sistem komputer. Contoh, linux, windows, Mancitos, dll.
